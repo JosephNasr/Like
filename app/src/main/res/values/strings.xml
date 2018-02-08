@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Like++</string>
+
+    <!-- Facebook authentications - JN -->
+    <string name="facebook_app_id">150268119017732</string>
+    <string name="fb_login_protocol_scheme">fb150268119017732</string>
+</resources>
